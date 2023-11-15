@@ -1,0 +1,15 @@
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\bin\Debug\Alg_Lab2.exe.config
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\bin\Debug\Alg_Lab2.exe
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\bin\Debug\Alg_Lab2.pdb
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.csproj.AssemblyReference.cache
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\MainWindow.g.cs
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\App.g.cs
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2_MarkupCompile.cache
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2_MarkupCompile.lref
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\MainWindow.baml
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.g.resources
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.Properties.Resources.resources
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.csproj.GenerateResource.cache
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.exe
+C:\Users\Confucius\source\repos\Alg_Lab2\Alg_Lab2\obj\Debug\Alg_Lab2.pdb

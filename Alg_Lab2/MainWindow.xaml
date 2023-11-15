@@ -1,0 +1,27 @@
+﻿<Window x:Class="Alg_Lab2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Alg_Lab2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200">
+    <Grid>
+        <Canvas>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="50" Margin="100,400,0,0" Stroke="Black" VerticalAlignment="Top" Width="200" RadiusX="15" RadiusY="15"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="50" Margin="500,400,0,0" Stroke="Black" VerticalAlignment="Top" Width="200" RadiusX="15" RadiusY="15"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="50" Margin="900,400,0,0" Stroke="Black" VerticalAlignment="Top" Width="200" RadiusX="15" RadiusY="15"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="300" Margin="180,150,0,0" RadiusY="15" RadiusX="15" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="300" Margin="580,150,0,0" RadiusY="15" RadiusX="15" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="300" Margin="980,150,0,0" RadiusY="15" RadiusX="15" Stroke="Black" VerticalAlignment="Top" Width="40"/>
+            <Rectangle Name="R1" Fill="#FFCD3232" HorizontalAlignment="Left" Height="31" Canvas.Left="100" Canvas.Top="369" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="200"/>
+            <Rectangle Name="R2" Fill="#FFCDAA32" HorizontalAlignment="Left" Height="31" Canvas.Left="110" Canvas.Top="338" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="180"/>
+            <Rectangle Name="R3" Fill="#FFB8CD32" HorizontalAlignment="Left" Height="31" Canvas.Left="120" Canvas.Top="307" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="160"/>
+            <Rectangle Name="R4" Fill="#FF6ACD32" HorizontalAlignment="Left" Height="31" Canvas.Left="130" Canvas.Top="276" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="140"/>
+            <Rectangle Name="R5" Fill="#FF32CD63" HorizontalAlignment="Left" Height="31" Canvas.Left="140" Canvas.Top="245" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="120"/>
+            <Rectangle Name="R6" Fill="#FF329CCD" HorizontalAlignment="Left" Height="31" Canvas.Left="150" Canvas.Top="214" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+            <Rectangle Name="R7" Fill="#FF6A32CD" HorizontalAlignment="Left" Height="31" Canvas.Left="160" Canvas.Top="183" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="80"/>
+            <Rectangle Name="R8" Fill="#FF6A32CD" HorizontalAlignment="Left" Height="31" Canvas.Left="170" Canvas.Top="152" RadiusY="10" RadiusX="10" Stroke="Black" VerticalAlignment="Top" Width="60"/>
+        </Canvas>
+    </Grid>
+</Window>
